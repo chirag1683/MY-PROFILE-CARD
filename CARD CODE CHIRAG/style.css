@@ -11,9 +11,9 @@ body {
 
 .card {
   background: #1e1e2f;
-  border-radius: 20px;
-  width: 300px;
-  padding: 30px 20px;
+  border-radius: 25px;
+  width: 380px;
+  padding: 30px 25px;
   text-align: center;
   position: relative;
   box-shadow: 0 15px 30px rgba(0,0,0,0.4);
